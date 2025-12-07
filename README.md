@@ -1,2 +1,2 @@
 # MyFirstRepo
-This my first repository was created as part of a GitHub learning task in my ALX SE 102 course.
+This is my first repository created as part of a GitHub learning task.
