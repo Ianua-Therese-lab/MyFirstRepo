@@ -1,0 +1,9 @@
+What I Have Learnt So Far in this Course
+
+
+I've learned that working with Git involves not just memorizing commands, but understanding the states and structure of a repository. You have to be inside a Git-initialized folder (with a .git directory) for most commands to work. I have also discovered that authentication (via PAT or SSH) is essential for interacting with GitHub, and that Ils -la .learning.txt.swp* need actual files to commit—Git won’t commit an empty folder. If something goes wrong, it's often helpful to start fresh by reinitializing or cloning, and to always check your current directory and whether a repository has been set up correctly before proceeding.
+
+
+
+
+
